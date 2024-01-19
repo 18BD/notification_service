@@ -1,0 +1,386 @@
+Watching for file changes with StatReloader
+send message mailing_id=4
+"POST /mailings/4/send_messages/ HTTP/1.1" 200 0
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/settings.py changed, reloading.
+Watching for file changes with StatReloader
+send message mailing_id=4
+"POST /mailings/4/send_messages/ HTTP/1.1" 200 0
+"POST /mailings/ HTTP/1.1" 201 154
+"GET /mailings/ HTTP/1.1" 200 965
+send message mailing_id=5
+"POST /mailings/5/send_messages/ HTTP/1.1" 200 0
+/Users/bauka/Desktop/projects/notifications/src/notifications/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+send message mailing_id=5
+"POST /mailings/5/send_messages/ HTTP/1.1" 200 0
+sending message to 1
+sending message with id 46, phone: 77472841523, text: string
+sending message to 2
+sending message with id 47, phone: 77472841524, text: string
+sending message to 3
+sending message with id 48, phone: 77472841525, text: string
+sending message to 4
+sending message with id 49, phone: 77472841526, text: string
+"GET /mailings/ HTTP/1.1" 200 965
+"GET /mailings/4/messages/ HTTP/1.1" 200 1701
+/Users/bauka/Desktop/projects/notifications/src/notifications/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /mailings/4/messages/ HTTP/1.1" 200 1861
+"GET /mailings/5/messages/ HTTP/1.1" 200 745
+"DELETE /mailings/4/ HTTP/1.1" 204 0
+Not Found: /mailings/4/
+"DELETE /mailings/4/ HTTP/1.1" 404 50
+"DELETE /mailings/5/ HTTP/1.1" 204 0
+"POST /mailings/ HTTP/1.1" 201 154
+send message mailing_id=6
+"POST /mailings/6/send_messages/ HTTP/1.1" 200 0
+sending message to 1
+sending message with id 50, phone: 77472841523, text: string
+sending message to 2
+sending message with id 51, phone: 77472841524, text: string
+sending message to 3
+sending message with id 52, phone: 77472841525, text: string
+sending message to 4
+sending message with id 53, phone: 77472841526, text: string
+"GET /mailings/6/messages/ HTTP/1.1" 200 373
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /docs/ HTTP/1.1" 200 2201
+"GET /docs/?format=openapi HTTP/1.1" 200 28563
+"POST /mailings/ HTTP/1.1" 201 154
+"POST /mailings/ HTTP/1.1" 201 154
+send message mailing_id=7
+"POST /mailings/7/send_messages/ HTTP/1.1" 200 0
+send message mailing_id=8
+"POST /mailings/8/send_messages/ HTTP/1.1" 200 0
+sending message to 4
+sending message to 2
+sending message to 3
+sending message to 1
+sending message with id 55, phone: 77472841524, text: string
+sending message with id 54, phone: 77472841523, text: string
+sending message with id 56, phone: 77472841525, text: string
+sending message with id 57, phone: 77472841526, text: string
+"GET /mailings/7/messages/ HTTP/1.1" 200 2
+"GET /mailings/8/messages/ HTTP/1.1" 200 373
+"POST /mailings/ HTTP/1.1" 201 154
+"GET /mailings/9/messages/ HTTP/1.1" 200 2
+"GET /mailings/9/messages/ HTTP/1.1" 200 2
+"GET /mailings/9/messages/ HTTP/1.1" 200 2
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /mailings/ HTTP/1.1" 201 155
+send message mailing_id=10
+"POST /mailings/10/send_messages/ HTTP/1.1" 200 0
+sending message to 1
+sending message with id 58, phone: 77472841523, text: string
+sending message to 2
+sending message with id 59, phone: 77472841524, text: string
+sending message to 3
+sending message to 4
+sending message with id 60, phone: 77472841525, text: string
+sending message with id 61, phone: 77472841526, text: string
+"GET /mailings/10/messages/ HTTP/1.1" 200 373
+"POST /mailings/ HTTP/1.1" 201 155
+send message mailing_id=11
+"POST /mailings/11/send_messages/ HTTP/1.1" 200 0
+"GET /mailings/11/messages/ HTTP/1.1" 200 373
+/Users/bauka/Desktop/projects/notifications/src/app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /mailings/11/messages/ HTTP/1.1" 200 373
+sending message to 4
+sending message to 1
+sending message with id 65, phone: 77472841526, text: string
+sending message with id 62, phone: 77472841523, text: string
+sending message to 3
+sending message with id 64, phone: 77472841525, text: string
+sending message to 2
+sending message with id 63, phone: 77472841524, text: string
+"GET /mailings/11/messages/ HTTP/1.1" 200 373
+send message mailing_id=11
+sending message to 1
+sending message with id 66, phone: 77472841523, text: string
+sending message to 2
+sending message with id 67, phone: 77472841524, text: string
+"POST /mailings/11/send_messages/ HTTP/1.1" 200 0
+sending message to 3
+sending message with id 68, phone: 77472841525, text: string
+sending message to 4
+sending message with id 69, phone: 77472841526, text: string
+"GET /mailings/11/messages/ HTTP/1.1" 200 745
+/Users/bauka/Desktop/projects/notifications/src/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/notifications/services.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/bauka/Desktop/projects/notifications/src/app/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /mailings/ HTTP/1.1" 201 155
+send message mailing_id=12
+"POST /mailings/12/send_messages/ HTTP/1.1" 200 0
+"GET /mailings/12/messages/ HTTP/1.1" 200 2
+"POST /mailings/ HTTP/1.1" 201 155
+send message mailing_id=13
+sending message to 1
+sending message with id 70, phone: 77472841523, text: string
+sending message to 2
+sending message with id 71, phone: 77472841524, text: string
+"POST /mailings/13/send_messages/ HTTP/1.1" 200 0
+sending message to 3
+sending message with id 72, phone: 77472841525, text: string
+sending message to 4
+sending message with id 73, phone: 77472841526, text: string
+"GET /mailings/13/messages/ HTTP/1.1" 200 373
+"POST /mailings/ HTTP/1.1" 201 155
+send message mailing_id=14
+"POST /mailings/14/send_messages/ HTTP/1.1" 200 0
+"GET /mailings/14/messages/ HTTP/1.1" 200 373
+sending message to 3
+sending message to 2
+sending message to 4
+sending message to 1
+sending message with id 76, phone: 77472841525, text: string
+sending message with id 75, phone: 77472841524, text: string
+sending message with id 77, phone: 77472841526, text: string
+sending message with id 74, phone: 77472841523, text: string
+"GET /mailings/14/messages/ HTTP/1.1" 200 373
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 3803
+"GET /docs/ HTTP/1.1" 200 2199
+"GET /staticfiles/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /staticfiles/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+"GET /staticfiles/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /staticfiles/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /staticfiles/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"GET /docs/?format=openapi HTTP/1.1" 200 28559
+"GET /customers/ HTTP/1.1" 200 348
+create client phone=76143091089
+"POST /customers/ HTTP/1.1" 201 89
+create client phone=77472841111
+"POST /customers/ HTTP/1.1" 201 89
+"GET /customers/6/ HTTP/1.1" 200 89
+update client with client_id=6
+"PATCH /customers/6/ HTTP/1.1" 200 92
+destroy client with client_id=6
+remove pending messages with customer_id=6 from queue
+"DELETE /customers/6/ HTTP/1.1" 204 0
+Not Found: /customers/6/
+"GET /customers/6/ HTTP/1.1" 404 50
+"GET /mailings/ HTTP/1.1" 200 2306
+"POST /mailings/ HTTP/1.1" 201 198
+send message mailing_id=7
+"POST /mailings/7/send_messages/ HTTP/1.1" 200 0
+send message mailing_id=15
+sending message to 1
+sending message with id 78, phone: 77472841523, text: sent message filtered with tag1 and +7 code
+sending message to 2
+sending message with id 79, phone: 77472841524, text: sent message filtered with tag1 and +7 code
+sending message to 3
+sending message with id 80, phone: 77472841525, text: sent message filtered with tag1 and +7 code
+"POST /mailings/15/send_messages/ HTTP/1.1" 200 0
+sending message to 4
+sending message with id 81, phone: 77472841526, text: sent message filtered with tag1 and +7 code
+sending message to 5
+sending message with id 82, phone: 76143091089, text: sent message filtered with tag1 and +7 code
+"GET /mailings/15/messages/ HTTP/1.1" 200 466
+"POST /mailings/ HTTP/1.1" 201 198
+send message mailing_id=16
+"POST /mailings/16/send_messages/ HTTP/1.1" 200 0
+"GET /mailings/16/messages/ HTTP/1.1" 200 466
+sending message to 1
+sending message with id 83, phone: 77472841523, text: sent message filtered with tag1 and +7 code
+sending message to 4
+sending message to 2
+sending message with id 86, phone: 77472841526, text: sent message filtered with tag1 and +7 code
+sending message to 5
+sending message with id 84, phone: 77472841524, text: sent message filtered with tag1 and +7 code
+sending message with id 87, phone: 76143091089, text: sent message filtered with tag1 and +7 code
+sending message to 3
+sending message with id 85, phone: 77472841525, text: sent message filtered with tag1 and +7 code
+"GET /mailings/16/messages/ HTTP/1.1" 200 466
+"GET /customers/ HTTP/1.1" 200 438
+"POST /mailings/ HTTP/1.1" 201 198
+"GET /mailings/17/messages/ HTTP/1.1" 200 2
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2306
+"GET /staticfiles/admin/css/base.css HTTP/1.1" 200 16307
+"GET /staticfiles/admin/css/responsive.css HTTP/1.1" 200 18617
+"GET /staticfiles/admin/css/login.css HTTP/1.1" 200 1185
+"GET /staticfiles/admin/css/nav_sidebar.css HTTP/1.1" 200 1789
+"GET /staticfiles/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /staticfiles/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+"GET /staticfiles/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /staticfiles/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 4364
+"GET /staticfiles/admin/css/dashboard.css HTTP/1.1" 200 380
+"GET /staticfiles/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /staticfiles/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /staticfiles/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /admin/notifications/mailing/ HTTP/1.1" 200 13670
+"GET /staticfiles/admin/css/changelists.css HTTP/1.1" 200 6284
+"GET /staticfiles/admin/js/actions.js HTTP/1.1" 200 6783
+"GET /staticfiles/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+"GET /staticfiles/admin/js/core.js HTTP/1.1" 200 5418
+"GET /staticfiles/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /staticfiles/admin/js/urlify.js HTTP/1.1" 200 8632
+"GET /staticfiles/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /staticfiles/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+"GET /admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /staticfiles/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /staticfiles/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/notifications/mailing/17/change/ HTTP/1.1" 200 8495
+"GET /staticfiles/admin/css/forms.css HTTP/1.1" 200 8399
+"GET /staticfiles/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+"GET /staticfiles/admin/css/widgets.css HTTP/1.1" 200 10592
+"GET /staticfiles/admin/js/calendar.js HTTP/1.1" 200 7788
+"GET /staticfiles/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19750
+"GET /staticfiles/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /staticfiles/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /staticfiles/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /admin/notifications/mailing/ HTTP/1.1" 200 13670
+"GET /admin/notifications/mailing/15/change/ HTTP/1.1" 200 8495
+"GET /admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /admin/notifications/mailing/ HTTP/1.1" 200 13670
+"GET /admin/notifications/mailing/16/change/ HTTP/1.1" 200 8495
+"GET /admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /admin/notifications/mailing/ HTTP/1.1" 200 13670
+"GET /admin/notifications/mailing/8/change/ HTTP/1.1" 200 8439
+"GET /admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /admin/notifications/mailing/ HTTP/1.1" 200 13670
+/code/notifications/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/notifications/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 4364
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 4364
+"GET /docs/ HTTP/1.1" 200 2427
+"GET /staticfiles/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+"GET /staticfiles/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+"GET /docs/?format=openapi HTTP/1.1" 200 28289
+Watching for file changes with StatReloader
+send message mailing_id=18
+"POST /mailings/ HTTP/1.1" 201 161
+sending message to 2
+sending message with id 89, phone: 77472841524, text: string
+sending message to 1
+sending message to 3
+sending message to 4
+sending message with id 88, phone: 77472841523, text: string
+sending message with id 90, phone: 77472841525, text: string
+sending message with id 91, phone: 77472841526, text: string
+sending message to 5
+sending message with id 92, phone: 76143091089, text: string
+"GET /mailings/18/ HTTP/1.1" 200 197
+send message mailing_id=19
+"POST /mailings/ HTTP/1.1" 201 161
+"GET /mailings/19/ HTTP/1.1" 200 197
+sending message to 2
+sending message to 4
+sending message with id 96, phone: 77472841526, text: string
+sending message with id 94, phone: 77472841524, text: string
+sending message to 5
+sending message with id 97, phone: 76143091089, text: string
+sending message to 3
+sending message with id 95, phone: 77472841525, text: string
+sending message to 1
+sending message with id 93, phone: 77472841523, text: string
+"GET /mailings/19/ HTTP/1.1" 200 197
+/code/notifications/actions.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /docs HTTP/1.1" 301 0
+"GET /docs/ HTTP/1.1" 200 2427
+"GET /staticfiles/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /staticfiles/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /staticfiles/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /staticfiles/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /docs/?format=openapi HTTP/1.1" 200 28291
+"GET /customers/ HTTP/1.1" 200 438
+/code/notifications/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/notifications/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /mailings/16/messages/ HTTP/1.1" 200 958
+"GET /mailings/16/messages/ HTTP/1.1" 200 958
+/code/notifications/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /mailings/16/messages/ HTTP/1.1" 200 878
+send message mailing_id=20
+"POST /mailings/ HTTP/1.1" 201 169
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+sending message to 1
+sending message to 2
+sending message with id 98, phone: 77472841523, text: +7 tag1
+sending message with id 99, phone: 77472841524, text: +7 tag1
+sending message to 5
+sending message with id 100, phone: 76143091089, text: +7 tag1
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+"GET /mailings/20/messages/ HTTP/1.1" 200 529
+send message mailing_id=21
+"POST /mailings/ HTTP/1.1" 201 169
+"GET /mailings/21/messages/ HTTP/1.1" 200 2
+Not Found: /
+"GET / HTTP/1.1" 404 3581
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3632
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2306
+"GET /staticfiles/admin/css/base.css HTTP/1.1" 200 16307
+"GET /staticfiles/admin/css/nav_sidebar.css HTTP/1.1" 200 1789
+"GET /staticfiles/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /staticfiles/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+"GET /staticfiles/admin/css/responsive.css HTTP/1.1" 200 18617
+"GET /staticfiles/admin/css/login.css HTTP/1.1" 200 1185
+"GET /staticfiles/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /staticfiles/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
